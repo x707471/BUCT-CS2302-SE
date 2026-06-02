@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/ArtifactListPage",
+    "pages/ArtifactDetailPage",
+    "pages/ImageSearchPage",
+    "pages/MyCollectionsPage",
+    "pages/BrowseHistoryPage",
+    "pages/VoiceSearchPage",
+    "pages/VoiceQaPage",
+    "pages/UserUploadPage",
+    "pages/CollectionGroupPage"
+  ]
+}
